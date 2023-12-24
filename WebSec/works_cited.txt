@@ -1,0 +1,17 @@
+Cite sources you conslulted for this MP here:
+Use https://stackoverflow.com/questions/2782229/most-lightweight-way-to-create-a-random-string-and-a-random-hexadecimal-number to know how to generate random hex string
+Use https://database.guide/database-get-the-current-database-name-in-mysql/ to know how to get db name from select
+Use https://phoenixnap.com/kb/how-to-check-mysql-version#:~:text=information%20is%20version%20.-,SELECT%20VERSION%20Statement,version%20variable%20disregarding%20other%20variables. to know how to get db version from select
+Use https://stackoverflow.com/questions/8334493/get-table-names-using-select-statement-in-mysql to know how to get table names
+Use https://stackoverflow.com/questions/8752458/how-select-second-line-from-top-2-or-something-similar to know OFFSET keyword
+Use https://www.md5hashgenerator.com/ to generate my hash
+Use https://stackoverflow.com/questions/6730522/how-to-send-parameter-to-iframe-with-a-http-post-request to help me get started on 2.2.2.1
+Use https://stackoverflow.com/questions/9347282/using-jquery-preventing-form-from-submitting to know how to block form submission.
+Use https://developer.mozilla.org/en-US/docs/Web/API/History/pushState to learn history api
+Use https://regexr.com/ to decode regex
+Use https://medium.com/the-z/understanding-the-basic-way-to-prevent-xss-vulnerability-98e93f1145c6 to gain intuition on bypassing RemoveScript
+Use https://infinitelogins.com/2020/10/13/basic-cross-site-scripting-xss-bypass-techniques/ to gain intuition of using onerror to break RecRemoveScript
+Use https://www.w3schools.com/tags/att_onerror.asp to find HTML elements with onerror event
+Use https://stackoverflow.com/questions/8981009/can-you-create-a-javascript-string-without-using-or-quotes to know how to represent a string without quotes
+Use chatGPT to know # for id and . for class in jquery
+Use chatGPT to know that I can use /\//.source to get /, but that seems wrong...

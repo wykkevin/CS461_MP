@@ -1,0 +1,2 @@
+CREATE TABLE users(id int UNSIGNED NOT NULL AUTO_INCREMENT,username varchar(32) NOT NULL,password varchar(64) NOT NULL,passwordhash varchar(64) NOT NULL,PRIMARY KEY (id),UNIQUE (username));
+CREATE TABLE history(id int UNSIGNED NOT NULL AUTO_INCREMENT,user_id int UNSIGNED NOT NULL,query varchar(2048) NOT NULL,PRIMARY KEY (id));
